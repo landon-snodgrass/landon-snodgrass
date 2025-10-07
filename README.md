@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey, I'm Landon
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 <!--
 **landon-snodgrass/landon-snodgrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
